@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate at IIT Gandhinagar</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Materials+Engineering+Student;Always+learning+new+things" />
+  <img  align="center" src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Materials+Engineering+Student;Always+learning+new+things" />
 </p>
 
 ### 👨‍💻 About Me:
