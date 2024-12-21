@@ -6,8 +6,8 @@
 </p>
 
 ### 👨‍💻 About Me:
-- 🎓 I'm currently pursuing B.Tech in Materials Engineering at **IIT Gandhinagar**
-- 💻 I'm passionate about **Web Development** and **Materials Science**
+- 🎓 I'm currently pursuing B.Tech at **IIT Gandhinagar**
+- 💻 I'm passionate about **Web Development** 
 - 🌱 I'm currently learning **React.js** and exploring full-stack development
 - 📫 Reach me at: **waghkrushant@gmail.com** or **waghkrushant@iitgn.ac.in**
 
