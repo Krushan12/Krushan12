@@ -9,7 +9,7 @@
 - 🎓 I'm currently pursuing B.Tech at **IIT Gandhinagar**
 - 💻 I'm passionate about **Web Development** 
 - 🌱 I'm currently learning **React.js** and exploring full-stack development
-- 📫 Reach me at: **waghkrushant@gmail.com** or **waghkrushant@iitgn.ac.in**
+- 📫 Reach me at: **krtushantw@gmail.com** 
 
 ### 🚀 Recent Projects:
 - **Kanban Board** - A responsive task management app with drag-and-drop functionality using ReactJS and TailwindCSS
